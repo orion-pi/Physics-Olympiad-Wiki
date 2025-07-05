@@ -1,2 +1,5 @@
 title: Physics Olympiad Wiki
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+
+include:
+  - _includes/head_custom.html
