@@ -1,2 +1,7 @@
 title: Physics Olympiad Wiki
 remote_theme: "minimal-mistakes-jekyll"
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  math_engine: katex
