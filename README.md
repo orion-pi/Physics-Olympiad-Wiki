@@ -3,3 +3,4 @@
 Hello and welcome to the Physics Olympiad Wiki.
 
 # [Kinematics](https://github.com/orion-pi/Physics-Olympiad-Wiki/wiki/1.-Kinematics)
+# [Dynamics](https://github.com/orion-pi/Physics-Olympiad-Wiki/wiki/2.-Dynamics)
