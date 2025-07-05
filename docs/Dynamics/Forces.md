@@ -25,5 +25,5 @@ The force exerted opposing the compression of one object ![[a0ne8bch.png]]
 $$F_{k}=\mu_{k}N$$
 where, $\mu_{k}$=coefficient of kinetic friction
 ##### Static Friction
-$$F_{s} \leq \mu_{s}N$$where, $\mu_{s}$=coefficient of static friction
+$$F_{s} \leq \mu_{s}N$$ where, $\mu_{s}$=coefficient of static friction
 
