@@ -1,4 +1,2 @@
 title: Physics Olympiad Wiki
-remote_theme: just-the-docs/just-the-docs
-search_enabled: true
-color_scheme: light
+remote_theme: sylhare/jekyll-theme-book
