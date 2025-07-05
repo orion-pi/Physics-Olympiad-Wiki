@@ -5,3 +5,18 @@ color_scheme: light
 
 include:
   - _includes/head_custom.html
+  
+# Important if your docs are in /docs
+collections:
+  docs:
+    permalink: /:path/
+    output: true
+
+# Where your docs are located
+defaults:
+  - scope:
+      path: "docs"
+      type: docs
+    values:
+      layout: default
+      nav_order: 1
